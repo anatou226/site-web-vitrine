@@ -1,0 +1,381 @@
+.entete{
+    display: flex;
+     justify-content: space-around;  
+}
+.galery{
+    display: flex;
+    justify-content: center;
+}
+.ligne{
+    width: 300px;
+    position: relative;
+    bottom:15px ;
+}
+.texte{
+    display: flex;
+    justify-content: center;
+}
+.photo{
+    display: flex;
+    justify-content: center;
+      flex-direction: row-reverse;
+      gap: 15px;
+      width: 100%;
+    }
+    .versus{
+        height: 160px;
+        width: 150px;
+    }
+    .voiture{
+        height: 160px;
+        width: 150px;
+    }
+    .dinamo{
+        height: 160px;
+        width: 150px;
+    }
+    .mur{
+        height: 160px;
+        width: 150px;
+    }
+    
+    .photo2{
+        display: flex;
+        justify-content: center;
+        gap: 15px;
+    }
+    .fille{   
+        height: 160px;
+        width: 150px;
+      } 
+      .lunet{
+        height: 160px;
+        width: 150px;
+      }
+      .caro{
+        height: 160px;
+        width: 150px;
+      }
+      .chinoise{
+        height: 160px;
+        width: 150px;
+      }
+      .titre1{
+        position: relative;
+        left: 450px;
+        top: 80px;
+      }
+      .test1{
+        position: relative;
+        left: 300px;
+        top: 80px;
+      }
+      .titre2{
+        position: relative;
+        left: 800px;
+        bottom: 160px;
+      }
+      .test2{
+        position: relative;
+        left: 750px;
+        bottom: 150px;
+      }
+      .tableau{
+        background-color: darkgrey;
+        height: 500px;
+        width: 1500px;
+        position: relative;
+        
+      }
+      .rectangle{
+        position: relative;
+        height: 400px;
+        width: 800px;
+        left: 300px;
+        background-color: white;
+        top: 60px;
+      }
+      .femme{
+        position: relative;
+        width: 260px;
+        height: 260px;
+        left: 600px;
+        bottom: 450px;
+        border-radius: 150px;
+      }
+      .titre3{
+        position: relative;
+        left: 590px;
+        bottom: 420px;
+      }
+      .test4{
+        position: relative;
+        left: 500px;
+        bottom: 420px;
+      
+      }
+      .button{
+        position: relative;
+        width: 280px;
+        height: 60px;
+        border-radius: 50px;
+        background-color: darkorange;
+        left: 580px;
+        bottom: 420px;
+        
+      }
+      .button:hover{
+        background-color: black;
+        color: white;
+        
+      }
+      .button2:hover{
+        color: white;
+      }
+      
+      .approbation{
+        position: relative;
+        right: 90px;
+        top: 10px;
+        background-color: aliceblue;
+      }
+      .txt{
+        position: relative;
+        
+        left: 00px; 
+        bottom: 30px; 
+      }
+      .table{
+        position: relative;
+        width: 1500px;
+        height: 500px;
+        background-color: darkorange;
+  } 
+
+      .txt2{
+        position: relative;
+        left: 400px;
+          top: 90px;
+        
+      }
+      .trois{
+        display: flex;
+        justify-content: center;
+        gap: 200px;
+      }
+      .adam{
+        position: relative;
+        bottom: 60px;
+        height: 200px;
+        width: 190px;
+        
+      }
+      .linda{
+        position: relative;
+        bottom: 60px;
+        height: 200px;
+        width: 190px;
+      }
+      .mary{
+        position: relative;
+        bottom: 60px;
+        height: 200px;
+        width: 190px;
+      }
+      .title1{
+        position: relative;
+        left: 200px;
+        bottom: 60px;
+      }
+      .developper{
+        position: relative;
+        left: 200px;
+        bottom: 70px;
+      }
+      .sample1{
+        position: relative;
+        left: 140px;
+        bottom: 70px;
+      }
+      .title2{
+        position: relative;
+        left: 600px;
+        bottom: 200px;
+      }
+      .manager{
+        position: relative;
+        left: 600px;
+        bottom: 210px;
+      }
+      .sample2{
+        position: relative;
+        left: 500px;
+        bottom: 210px;
+      }
+      .title3{
+        position: relative;
+        left: 990px;
+        bottom: 340px;
+      }
+      .designer{
+        position: relative;
+        left: 990px;
+        bottom: 350px;
+      }
+      .sample3{
+        position: relative;
+        left: 940px;
+        bottom: 350px;
+      }
+      .roche{
+        position: relative;
+        bottom: 280px;
+        height: 840px;
+      }
+      .innovation{ 
+        display: flex;
+        justify-content: center;
+      }
+      .ideas{
+        position: relative;
+        left: 600px;
+        bottom: 700px;
+      }
+      .vital{
+        position: relative;
+        left: 550px;
+        bottom: 700px;
+      }
+      .ordi{
+        position: relative;
+        left: 200px;
+        bottom: 400px;
+        height: 300px;
+        width: 400px;
+      }
+        .feuille{
+          position: relative;
+        left: 350px;
+        bottom: 400px;
+        height: 250px;
+        width: 400px;
+        }
+        .voiture2{
+          position: relative;
+        left: 100px;
+        top: 150px;
+        height: 495px;
+        width: 400px;
+        }
+        .verre{
+          position: relative;
+        left: 450px;
+        bottom: 350px;
+        height: 250px;
+        width: 400px; 
+        }
+        .projet{
+           position: relative;
+           left: 280px;
+           font-size: xx-large;
+           bottom: 260px;
+        }
+        .image{
+          width: 100%;
+          display: flex;
+          justify-content:space-around;
+          gap: 40px;
+          
+        }
+         .rectngle{
+         
+           height: 160px;
+           width: 160px;
+         }
+         .carre{
+          height: 160px;
+          width: 160px;
+         }
+          .arreigne{
+            height: 160px;
+          width: 160px;
+          }
+           .multicaro{
+            height: 160px;
+            width: 160px;
+           }
+            .paragraphe{
+              position: relative;
+              left: 400px;
+              top: 50px;
+            }
+             .dernier{
+              position: relative;
+              height:580px ;
+              width: 1500px;
+              background-color:darkorange ;
+              top: 100px;
+             }
+             .book{
+              position: relative;
+              left: 550px;
+              font-size: xx-large;
+              color: white;
+              top: 50px;
+             }
+              .final{
+                position: relative;
+                height: 350px;
+                width: 450px;
+                left: 480px;
+                background-color: white;
+                top: 50px;
+                border-radius: 50px;
+              }
+              .information{
+                position: relative;
+                bottom: 260px;
+                left: 550px;
+              }
+              .but{
+                position: relative;
+                left: 550px;
+                bottom:200px ;
+                width: 275px ;
+                border-radius: 20px;
+                background-color: darkorange;
+                height: 40px;
+                color: white;
+              }
+              input{
+                width: 275px;
+                padding: 10px;
+                border-radius: 40px;
+                background-color: darkgrey;
+              }
+               .pied{
+                position: relative;
+                background-color:rgb(42, 41, 41);
+                height: 180px;
+                width: 1500px;
+                bottom: 60px;
+               }
+               .click{
+                position: relative;
+                left: 450px;
+                color: white;
+                top: 30px;
+               }
+               .creeeer{
+                color: white;
+                position: relative;
+               
+               }
+               .dlien{
+                display: flex;
+                width: 100%;
+                align-items: center;
+                justify-content: center;
+                position: relative;
+                top: 18px;
+               }
